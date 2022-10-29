@@ -6,27 +6,13 @@
 - [x] Date time
 - [x] Notification
 
-## APK
-
-[apk/todo-app.apk](https://github.com/phuongnam195/todo_app/blob/master/apk/todo-app.apk?raw=true)
-
 ## Screenshots
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/90912187/172536684-43ced825-2e11-4c7f-ae06-c0851efba39b.png" width="220" />
-  <img src="https://user-images.githubusercontent.com/90912187/172535353-e6d40502-09b6-47f1-874a-e55a17e49259.png" width="220" />
-  <img src="https://user-images.githubusercontent.com/90912187/172535393-ada52e0d-3155-49ac-93ae-7f731f686b6f.png" width="220" />
+  <img src="https://user-images.githubusercontent.com/90912187/198841025-e24f145c-c5d7-4197-93f6-1c0b6e546e85.png" width="220" />
+  <img src="https://user-images.githubusercontent.com/90912187/198841040-a8c3d10f-cdd4-4863-9f2c-83a1a996c219.png" width="220" />
+  <img src="https://user-images.githubusercontent.com/90912187/198841053-a92c891c-1c2e-432f-8581-c9a73048d56b.png" width="220" />
   
-  <img src="https://user-images.githubusercontent.com/90912187/172535438-e466cb93-156c-421a-bf07-67e4552321d9.png" width="220" />
-  <img src="https://user-images.githubusercontent.com/90912187/172535467-917b84d8-937a-4f03-8dc8-7a6cef6b7327.png" width="220" />
-  <img src="https://user-images.githubusercontent.com/90912187/172537013-7b39fd98-5d14-423e-8748-f3e92f261fc8.png" width="220" />
-  
-  <img src="https://user-images.githubusercontent.com/90912187/172537926-e27f9c02-1a29-46a9-8a1d-e4484ca0cfe2.png" width="220" />
-  <img src="https://user-images.githubusercontent.com/90912187/172537954-03534ef1-cb2d-4893-a30d-f2e6c3c42753.png" width="220" />
-  <img src="https://user-images.githubusercontent.com/90912187/172538015-3f8eb99f-d538-4f3a-868a-232a87bbdb22.png" width="220" />
-  
-  <img src="https://user-images.githubusercontent.com/90912187/172538061-4992aca6-6400-4b20-b173-ddd06aeb3bf1.png" width="220" />
-  <img src="https://user-images.githubusercontent.com/90912187/172538146-c48f7da2-6855-4e46-ba16-c770521e7325.png" width="220" />
-  <img src="https://user-images.githubusercontent.com/90912187/173179999-c9c316b4-21f1-47de-b0f9-ccac8a6bd6da.png" width="220" />
+  <img src="https://user-images.githubusercontent.com/90912187/198841073-536f6709-41cf-4ffd-8011-9ef613e5269f.png" width="220" />
 </p>
 
 ## How to build
