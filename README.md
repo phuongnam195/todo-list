@@ -1,4 +1,6 @@
-# Todo List
+# TODO List
+- Exercise 2 | Advanced Mobile Development | HCMUS
+- Đặng Phương Nam - 19120591
 
 ## Features
 - [x] All, Today & Upcoming tasks

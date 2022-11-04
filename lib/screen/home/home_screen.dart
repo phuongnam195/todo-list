@@ -123,9 +123,8 @@ class _HomeScreenState extends State<HomeScreen> with DialogUtils {
           selectedItemColor: AppColors.secondary,
           onTap: (index) {
             if (_page == index) return;
-            setState(() {
-              _page = index;
-            });
+            _page = index;
+            _loadTasks();
           },
         ),
       ),
