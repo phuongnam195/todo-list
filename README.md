@@ -6,7 +6,7 @@
 - [x] All, Today & Upcoming tasks
 - [x] Search
 - [x] Date time
-- [x] Notification
+- [x] Notification before 10'
 
 ## Screenshots
 <p float="left">
